@@ -1,0 +1,23 @@
+.card-img-top{
+    width:60%;
+    border-radius: 50%;
+    border: 5px solid aquamarine;
+}
+.profile{
+    padding-left: 35%;
+    padding-right: 35%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: azure;
+}
+.card-body{
+    padding: 1.25rem;
+    flex: none!important;
+}
+.slider{
+    display: flex;
+    align-items: center;
+    flex-direction: column;    
+}
